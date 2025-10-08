@@ -1,7 +1,13 @@
-Statut conjugal,%
-Marié(e),41
-Pacsé(e),"5,3"
-En concubinage ou union libre,"10,3"
-"Veuf, veuve","8,2"
-Divorcé(e),"8,9"
-Célibataire,"26,3"
+Statut conjugal,%,Arrondissement,COG,Code_postal
+Marié(e),41,Marseille 12,13212,13012
+Pacsé(e),"5,3",Marseille 12,13212,13012
+En concubinage ou union libre,"10,3",Marseille 12,13212,13012
+"Veuf, veuve","8,2",Marseille 12,13212,13012
+Divorcé(e),"8,9",Marseille 12,13212,13012
+Célibataire,"26,3",Marseille 12,13212,13012
+Marié(e),"41,9",Marseille 11,13211,13011
+Pacsé(e),"4,1",Marseille 11,13211,13011
+En concubinage ou union libre,"8,9",Marseille 11,13211,13011
+"Veuf, veuve","6,6",Marseille 11,13211,13011
+Divorcé(e),"7,8",Marseille 11,13211,13011
+Célibataire,"30,6",Marseille 11,13211,13011
